@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AssignmentSdeInternApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AssignmentSdeInternApplication.class, args);
+
+        SpringApplication.run(AssignmentSdeInternApplication.class, args);
+        System.out.println("Hello Assignment");
 	}
 
 }
