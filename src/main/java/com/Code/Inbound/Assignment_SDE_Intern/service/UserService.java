@@ -48,6 +48,11 @@ public class UserService {
         userRepo.deleteById(id);
         return userToDelete;
     }
+    
+    public User getUser(Long id) {
+        return userRepo.findById(id)
+                .orElseThrow(() -> new RuntimeException("User not found"));
+    }
 
     public User getUserById(Long id) {
         return userRepo.findById(id)

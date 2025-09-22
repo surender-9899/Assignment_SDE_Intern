@@ -9,7 +9,6 @@ public class AssignmentSdeInternApplication {
 	public static void main(String[] args) {
 
         SpringApplication.run(AssignmentSdeInternApplication.class, args);
-        System.out.println("Hello Assignment");
 	}
 
 }
