@@ -161,7 +161,7 @@ To enable JWT-based authentication:
 ![Update User](postman-ss/update-user.png)
 
 ### 4️⃣ Delete User
-![Delete User](postman-ss/delete-user.png)
+[![Delete User](postman-ss/delete-user.png)](https://github.com/surender-9899/Assignment_SDE_Intern/blob/main/Postman%20SS/DeleteUser.png)
 
 ---
 
