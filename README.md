@@ -163,6 +163,15 @@ To enable JWT-based authentication:
 ### 4️⃣ Delete User
 [![Delete User](postman-ss/delete-user.png)](https://github.com/surender-9899/Assignment_SDE_Intern/blob/main/Postman%20SS/DeleteUser.png)
 
+### 5️⃣ Get User By Id
+[![Get User By Id](postman-ss/GetById.png)](https://github.com/surender-9899/Assignment_SDE_Intern/blob/main/Postman%20SS/GetById.png)
+
+### 6️⃣ Get User By Username
+[![Get User By Username](postman-ss/GetByUsername.png)](https://github.com/surender-9899/Assignment_SDE_Intern/blob/main/Postman%20SS/GetByUsername.png)
+
+### 7️⃣ Get User By Email
+[![Get User By Email](postman-ss/GetByEmail.png)](https://github.com/surender-9899/Assignment_SDE_Intern/blob/main/Postman%20SS/GetByEmail.png)
+
 ---
 
 ## 👨‍💻 Author
